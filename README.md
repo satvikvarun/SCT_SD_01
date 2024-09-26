@@ -1,1 +1,1 @@
-# SCT_SD_01
+Create a program that converts temperature between Celsius, Farenheit and Kelvin scales
